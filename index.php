@@ -5,7 +5,10 @@
             
             
             <p>
-                Put link to original dataset here
+                This database includes some of  the most popular apps
+                available for mobile devices. The <a 
+                href="https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games"
+                >origanl dataset</a> can be found at the preceding link.
             </p>
             
 
